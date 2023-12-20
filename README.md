@@ -1,5 +1,6 @@
 # Calculadora-iphone
 Calculadora simples no estilo do iphone
 
+Para utilizar use a biblioteca (CustomTkinter)
 
-Uma calculadora estilo iphone
+"""pip install customtkinter"""
